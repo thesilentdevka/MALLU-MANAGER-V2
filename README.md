@@ -27,9 +27,6 @@
 </h3>
 
 <p align="center">
-    
-    I DID NOT MAKE THIS BOT THE ORIGINAL REPO IS GIVEN BELOW
-    <a href="https://github.com/TheHamkerCat/WilliamButcherBot"> ORIGINAL REPO </a>
     A Support Group and ready-to-use running instance of this bot can be found on Telegram <br>
     <a href="https://t.me/MALLU-MANAGER-V2"> MALLU-MANAGER-V2 </a> | 
     <a href="https://t.me/thesilentninja"> MALLU BOT OWNER (CONTACT FOR SUPPORT) </a>
@@ -44,6 +41,8 @@
     <a href="https://docs.pyrogram.org/intro/setup#api-keys"> Telegram API Key </a> |
     <a href="https://t.me/botfather"> Telegram Bot Token </a> | 
     <a href="https://telegra.ph/How-To-get-Mongodb-URI-04-06"> MongoDB URL </a>
+    I DID NOT MAKE THIS BOT THE ORIGINAL REPO IS GIVEN BELOW
+<a href="https://github.com/TheHamkerCat/WilliamButcherBot"> ORIGINAL REPO </a>
 </p>
 
 <h2 align="center"> 
