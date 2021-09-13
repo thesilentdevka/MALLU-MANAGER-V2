@@ -6,7 +6,7 @@
     Telegram Group Manager Bot + Userbot Written In Python Using Pyrogram.
 
 
-    I DIDN'T MAKE THIS BOT IT WAS FROM THIS REPO <a href="https://github.com/thesilentninja/WilliamButcherBot"> WILLIAM BUTCHER BOT </a> |
+    I DIDN'T MAKE THIS BOT IT WAS FROM THIS REPO<a href="https://github.com/thesilentdevka/MALLU-MANAGER-V2"> MALLU-MANAGER-V2 </a>
 </h3>
 
 <p align="center">
