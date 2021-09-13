@@ -28,7 +28,7 @@
 
 <p align="center">
     A Support Group and ready-to-use running instance of this bot can be found on Telegram <br>
-    <a href="https://t.me/MALLU-MANAGER-V2"> MALLU-MANAGER-V2 </a> | 
+    <a href="https://t.me/MALLU_MANAGER_V2_BOT"> MALLU-MANAGER-V2 </a> | 
     <a href="https://t.me/thesilentninja"> MALLU BOT OWNER (CONTACT FOR SUPPORT) </a>
 </p>
 
