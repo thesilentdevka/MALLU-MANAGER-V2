@@ -40,7 +40,10 @@
     <a href="https://www.python.org/downloads/release/python-390/"> Python3.9 </a> |
     <a href="https://docs.pyrogram.org/intro/setup#api-keys"> Telegram API Key </a> |
     <a href="https://t.me/botfather"> Telegram Bot Token </a> | 
-    <a href="https://telegra.ph/How-To-get-Mongodb-URI-04-06"> MongoDB URL </a>
+    <a href="https://telegra.ph/How-To-get-Mongodb-URI-04-06"> MongoDB URL |  </a>
+    
+    
+    
     I DID NOT MAKE THIS BOT THE ORIGINAL REPO IS GIVEN BELOW
 <a href="https://github.com/TheHamkerCat/WilliamButcherBot"> ORIGINAL REPO </a>
 </p>
