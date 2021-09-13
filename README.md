@@ -3,10 +3,7 @@
 </h1>
 
 <h3 align="center"> 
-    Telegram Group Manager Bot + Userbot Written In Python Using Pyrogram.
-
-
-    I DIDN'T MAKE THIS BOT IT WAS FROM THIS REPO href="https://github.com/thesilentdevka/MALLU-MANAGER-V2"> MALLU-MANAGER-V2
+    Telegram Group Manager Bot + Userbot Written In Python Using Pyrogram
 </h3>
 
 <p align="center">
@@ -30,6 +27,9 @@
 </h3>
 
 <p align="center">
+    
+    I DID NOT MAKE THIS BOT THE ORIGINAL REPO IS GIVEN BELOW
+    <a href="https://github.com/TheHamkerCat/WilliamButcherBot"> ORIGINAL REPO </a>
     A Support Group and ready-to-use running instance of this bot can be found on Telegram <br>
     <a href="https://t.me/MALLU-MANAGER-V2"> MALLU-MANAGER-V2 </a> | 
     <a href="https://t.me/thesilentninja"> MALLU BOT OWNER (CONTACT FOR SUPPORT) </a>
