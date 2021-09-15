@@ -91,7 +91,7 @@ thesilentninja@arch:~$ python3 -m wbb
 </h3>
 
 ```console
-thesilentdevka@arch:~$ git clone https://github.com/thesilentninja/MALLU-MANAGER-V2
+thesilentdevka@arch:~$ git clone https://github.com/thesilentdevka/MALLU-MANAGER-V2
 thesilentdevka@arch:~$ cd MALLU-MANAGER-V2
 thesilentdevka@arch:~$ pip3 install pyrogram TgCrypto
 thesilentdevka@arch:~$ python3 str_gen.py
@@ -102,7 +102,7 @@ thesilentdevka@arch:~$ python3 str_gen.py
 </h1>
 
 ```console
-thesilentdevka@arch:~$ git clone https://github.com/thesilentninja/MALLU-MANAGER-V2
+thesilentdevka@arch:~$ git clone https://github.com/thesilentdevka/MALLU-MANAGER-V2
 thesilentdevka@arch:~$ cd MALLU-MANAGER-V2
 thesilentdevka@arch:~$ cp sample_config.env config.env
 ```
