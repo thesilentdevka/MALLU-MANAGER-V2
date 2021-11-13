@@ -68,7 +68,7 @@
             "required": true
         },
         "USERBOT_PREFIX": {
-            "description": "Userbot command prefix, FOR EXAMPLE THE COMMAND '.alive' IF YOU PUT '!' HERE IT WILL BE '!alive'.",
+            "description": "Userbot command prefix, Leave it empty if you don't know what that is.",
             "required": false
         },
         "RSS_DELAY": {
