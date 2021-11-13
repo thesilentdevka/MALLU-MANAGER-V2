@@ -44,9 +44,11 @@
     
     
     
-    I DID NOT MAKE THIS BOT THE ORIGINAL REPO IS GIVEN BELOW
-<a href="https://github.com/TheHamkerCat/WilliamButcherBot"> ORIGINAL REPO </a>
-</p>
+<p style="text-align: center;"><strong>THIS REPOSITORY IS NOT MADE BY ME.</strong></p>
+<p style="text-align: center;"><strong>IT WAS MAGE BY&nbsp;</strong><a href="https://github.com/TheHamkerCat" rel="noopener noreferrer" target="_blank"><strong>THIS GUY</strong></a><strong>&nbsp;AND THE REPOSITORY LINK IS GIVEN BELOW.</strong></p>
+<p style="text-align: center;"><a href="https://github.com/TheHamkerCat/WilliamButcherBot"><strong>ORIGINAL REPO</strong></a></p>
+<p style="text-align: center;"><strong><a href="https://github.com/TheHamkerCat/WilliamButcherBot"></a></strong></p>
+<p><br></p>
 
 <h2 align="center"> 
    ⇝ Install Locally Or On A VPS ⇜
